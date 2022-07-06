@@ -4,12 +4,12 @@ description: North Carolina State University
 timezone: Eastern Daylight Time
 
 navigation:
-  Home: "/"
-  Program Committee: "/committee"
-  Call for Papers: "/cfp"
-  Schedule: "/schedule"
-  Accepted Abstracts: "/abstracts"
-  Invited Speakers: "/speakers"
+  Home: "/fwcg2022"
+  Program Committee: "/fwcg2022/committee"
+  Call for Papers: "/fwcg2022/cfp"
+  Schedule: "/fwcg2022/schedule"
+  Accepted Abstracts: "/fwcg2022/abstracts"
+  Invited Speakers: "/fwcg2022/speakers"
 
 markdown: kramdown
 

@@ -1,0 +1,14 @@
+.DS_Store
+
+_site/
+
+.jekyll-cache/
+.sass-cache/
+
+Gemfile.lock
+
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out

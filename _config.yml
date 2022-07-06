@@ -1,0 +1,20 @@
+title:       The 30th Annual Fall Workshop on Computational Geometry
+description: North Carolina State University
+
+timezone: Eastern Daylight Time
+
+navigation:
+  Home: "/"
+  Program Committee: "/committee"
+  Call for Papers: "/cfp"
+  Schedule: "/schedule"
+  Accepted Abstracts: "/abstracts"
+  Invited Speakers: "/speakers"
+
+markdown: kramdown
+
+kramdown:
+  parse_span_html: true
+  parse_block_html: true
+
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock']

@@ -11,7 +11,7 @@ navigation:
   Schedule: "/fwcg2022/schedule"
   Accepted Abstracts: "/fwcg2022/abstracts"
   Invited Speakers: "/fwcg2022/speakers"
-  Travel Support: "fwcg2022/travel_support"
+  Travel Support: "/fwcg2022/travel_support"
 
 markdown: kramdown
 

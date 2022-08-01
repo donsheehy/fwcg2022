@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Accepted Abstracts
+title: Registration
 ---
 
-# Abstracts
+# Registration
 
 Coming Soon.

@@ -38,10 +38,4 @@ Following the tradition of the previous Fall Workshops on Computational Geometry
 
 ## Important Dates
 
-- Abstract submission:             Friday September 9, 2022
-- Notification of acceptance:      Friday September 16, 2022
-- Travel Support Applications Due: Friday September 23, 2022
-- Final abstracts due:             Friday September 30, 2022
-- Travel Support Notification:     Friday September 30, 2022
-- Registration (no fee):           Monday October 10, 2022
-- Workshop:                        Fri-Sat October 14-15, 2022
+{% include_relative _dates.html %}

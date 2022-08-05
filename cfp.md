@@ -68,13 +68,9 @@ Contributed talk abstracts, due by Friday, September 9, will be reviewed by
 the program committee, with notification by Friday, September 16.
 
 ##Important Dates:
-- Abstract submission:             Friday September 9, 2022
-- Notification of acceptance:      Friday September 16, 2022
-- Travel Support Applications Due: Friday September 23, 2022
-- Final abstracts due:             Friday September 30, 2022
-- Travel Support Notification:     Friday September 30, 2022
-- Registration (no fee):           Monday October 10, 2022
-- Workshop:                        Fri-Sat October 14-15, 2022
+
+
+{% include_relative _dates.html %}
 
 ## Program Committee:
 
@@ -108,7 +104,7 @@ FWCG is free.)
 
 To apply for travel support,
 
-- visit and complete the form at this link (link to be included).  You will
+- visit and complete the form at this link (https://forms.gle/5sJANxZuUDN2Tus99).  You will
 be asked to provide your name, email affiliation, student/postdoc status,
 a brief statement, etc.
 

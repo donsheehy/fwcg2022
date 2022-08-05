@@ -5,7 +5,7 @@ timezone: Eastern Daylight Time
 
 navigation:
   Home: "/fwcg2022"
-  Program Committee: "/fwcg2022/committee"
+  Committees: "/fwcg2022/committee"
   Call for Papers: "/fwcg2022/cfp"
   Registration: "/fwcg2022/registration"
   Schedule: "/fwcg2022/schedule"

@@ -38,4 +38,4 @@ Following the tradition of the previous Fall Workshops on Computational Geometry
 
 ## Important Dates
 
-{% include_relative _dates.html %}
+{% include_relative dates.html %}

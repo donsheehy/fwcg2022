@@ -67,10 +67,9 @@ presented/accepted elsewhere.
 Contributed talk abstracts, due by Friday, September 9, will be reviewed by
 the program committee, with notification by Friday, September 16.
 
-##Important Dates:
+## Important Dates:
 
-
-{% include_relative _dates.html %}
+{% include_relative dates.html %}
 
 ## Program Committee:
 

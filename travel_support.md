@@ -10,8 +10,8 @@ FWCG is free.)
 
 To apply for travel support,
 
-- visit and complete the form at this link (https://forms.gle/teXtcKpcwhRwa9Ua7
-).  You will
+- visit and complete the form at this link:
+  [Travel Support Request Form](https://forms.gle/H47PxXcGuKvdZWAn8).  You will
   be asked to provide your name, email affiliation, student/postdoc status,
   a brief statement, etc.
 

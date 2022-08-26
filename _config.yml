@@ -7,6 +7,7 @@ navigation:
   Home: "/fwcg2022"
   Committees: "/fwcg2022/committee"
   Call for Papers: "/fwcg2022/cfp"
+  Submission Info: "/fwcg2022/submission"
   Registration: "/fwcg2022/registration"
   Schedule: "/fwcg2022/schedule"
   Accepted Abstracts: "/fwcg2022/abstracts"

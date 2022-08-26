@@ -1,7 +1,6 @@
 # Travel Support
 
-
-There is (limited) travel support for students and postdocs at US institutions to FWCG 2022.
+Thanks to the US National Science Foundation, there is (limited) travel support for students and postdocs at US institutions to FWCG 2022.
 All students and postdocs (at US institutions) are encouraged to apply, but
 priority will be given to speakers who have no (or limited) other travel
 funding. Since support is limited, we anticipate mostly funding of local

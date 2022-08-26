@@ -6,8 +6,7 @@ title: Submission
 # Submission Info
 
 Authors are invited to submit abstracts (up to 4 pages) for contributed talks
-to be given at the workshop. Submission is via [easychair]
-(http://easychair.org/conferences/?conf=fwcg2022).
+to be given at the workshop. Submission is via easychair: [http://easychair.org/conferences/?conf=fwcg2022](http://easychair.org/conferences/?conf=fwcg2022).
 
 We encourage submissions of full paper drafts (if available) along with the
 abstract. Because there are no formal proceedings for the workshop,

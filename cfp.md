@@ -11,7 +11,7 @@ title: Call for Papers
 #### North Carolina State University
 
 The 30th Annual Fall Workshop on Computational Geometry will be held at
-North Carolina State University on October 14-15.
+North Carolina State University **and online** on October 14-15.
 We welcome your submissions of abstracts.
 The conference website is [http://go.ncsu.edu/fwcg2022](http://go.ncsu.edu/fwcg2022).
 Submission info via easychair is included below.
@@ -57,15 +57,14 @@ to pose and present research questions.
 Authors are invited to submit abstracts (up to 4 pages) for contributed talks
 to be given at the workshop. Submission is via easychair: [http://easychair.org/conferences/?conf=fwcg2022](http://easychair.org/conferences/?conf=fwcg2022).
 
+**Talks may be delivered in person or remotely.**
+
 We encourage submissions of full paper drafts (if available) along with the
 abstract. Because there are no formal proceedings for the workshop,
 submission of material that is to be submitted to (or to appear in) a
 refereed conference (e.g., SODA'2023, SoCG'2023) is allowed and encouraged;
 please indicate clearly with the submission if the work has already been
 presented/accepted elsewhere.
-
-Contributed talk abstracts, due by Friday, September 9, will be reviewed by
-the program committee, with notification by Friday, September 16.
 
 ## Important Dates:
 

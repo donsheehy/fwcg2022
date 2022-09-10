@@ -8,6 +8,17 @@ layout: default
 
 #### North Carolina State University
 
+#### and Online
+
+**The Fall Workshop will be a hybrid conference this year with both in-person and remote attendance (via Zoom).**
+
+
+## Important Dates
+
+{% include_relative dates.html %}
+
+## Overview
+
 The aim of this workshop is to bring together students and researchers from academia and industry, to stimulate collaboration on problems of common interest arising in geometric computations. Topics to be covered include, but are not limited to:
 
 - Algorithmic methods in geometry and topology
@@ -35,7 +46,3 @@ The aim of this workshop is to bring together students and researchers from acad
 - Computational conformal geometry
 
 Following the tradition of the previous Fall Workshops on Computational Geometry, the format of the workshop will be informal, extending over 2 days, with several breaks scheduled for discussions. The workshop is open to the public, with no registration fee. There will be an Open Problem Session where participants are encouraged to pose and present research questions.
-
-## Important Dates
-
-{% include_relative dates.html %}

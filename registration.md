@@ -11,4 +11,4 @@ title: Registration
 
 There is no registration fee, but registering is important to help us plan for food and other local arrangements.
 
-If you are only attending remotely, please also register so that we can communicate with you regarding the
+If you are only attending remotely, please also register so that we can communicate with you.

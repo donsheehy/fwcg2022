@@ -13,6 +13,7 @@ navigation:
   Accepted Abstracts: "/fwcg2022/abstracts"
   Invited Speakers: "/fwcg2022/speakers"
   Travel Support: "/fwcg2022/travel_support"
+  Travel Information: "/fwcg2022/localinfo"
 
 markdown: kramdown
 

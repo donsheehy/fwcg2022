@@ -21,7 +21,7 @@ FWCG 22 will be conducted at the following locations.
 
 Please note that the events on the different days are in different campuses of NCSU.
 Witherspoon Student Center is almost a 1.5 mile walk from EB2.
-However, NCSU maintains a [[bus service | ## Transportation Within NCSU]] which makes things easier.
+However, NCSU maintains a bus service (see below) which makes things easier.
 
 ## Hotel Information
 Many hotels in downtown Raleigh and Cary that would be convenient.
@@ -46,7 +46,7 @@ GoRaleigh is the bus network managed by the city of Raleigh with regular service
 
 NCSU's Wolfline manages a strong bus network within campus.
 Routes 20, 40, and 41 connect Centennial Campus to Main Campus.
-For more information (including live bus locations) please check: https://transportation.ncsu.edu/wolfline/.
+For more information (including live bus locations) please check [NCSU Wolfline](https://transportation.ncsu.edu/wolfline/).
 
 No fares or identification are required on either system.
 
@@ -55,7 +55,7 @@ No fares or identification are required on either system.
 #### 14 Oct
 Parking on campus is by permit only on Mondays through Fridays from 7 am to 5 pm.
 One can pay and park at Dan Allen Carriageway located right across Witherspoon Student Center with additional parking in the Bragaw C Lot and Dan Allen Parking Deck.
-More details can be found here: https://transportation.ncsu.edu/visitor-parking/
+More details can be found [here](https://transportation.ncsu.edu/visitor-parking/)
 
 #### 15 Oct
 Parking is a little more relaxed on weekends when visitors can park in any 'C' type parking areas.

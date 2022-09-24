@@ -113,7 +113,7 @@ and describing any other available travel funds. Vague statements such as
 "funds are tight" are not informative. Each adviser may nominate at most
 two students for travel support.
 
-Applications and supporting letters should arrive by September 23 for full
+Applications and supporting letters should arrive by September 28 for full
 consideration; late applications will only be considered based on
 availability of funds. Awardees will be selected and notified by
 September 30.  Applications will be reviewed in consultation with the FWCG

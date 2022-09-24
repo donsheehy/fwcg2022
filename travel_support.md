@@ -1,5 +1,7 @@
 # Travel Support
 
+**Deadline Extended: September 28**
+
 Thanks to the US National Science Foundation, there is (limited) travel support for students and postdocs at US institutions to FWCG 2022.
 All students and postdocs (at US institutions) are encouraged to apply, but
 priority will be given to speakers who have no (or limited) other travel
@@ -21,7 +23,7 @@ To apply for travel support,
   "funds are tight" are not informative. Each adviser may nominate at most
   two students for travel support.
 
-Applications and supporting letters should arrive by September 23 for full
+Applications and supporting letters should arrive by September 28 for full
 consideration; late applications will only be considered based on
 availability of funds. Awardees will be selected and notified by
 September 30.  Applications will be reviewed in consultation with the FWCG

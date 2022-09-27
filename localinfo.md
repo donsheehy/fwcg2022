@@ -63,7 +63,7 @@ There are many such spots on Centennial Campus including Partner's Way Deck, Ova
 However, please note that parking areas where student resident permits are required are still enforced on weekends.
 There are clear signs outside every parking lot about the permit needed to park there and what time of the week it is enforced.
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1MbyEvFplVpHf71ScnExDeqfoY-oAVTk&ehbc=2E312F" width="640" height="480"></iframe>
+<!-- <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1MbyEvFplVpHf71ScnExDeqfoY-oAVTk&ehbc=2E312F" width="640" height="480"></iframe> -->
 
 <!-- ## Food and Drink
 

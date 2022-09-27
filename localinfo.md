@@ -24,7 +24,7 @@ Witherspoon Student Center is almost a 1.5 mile walk from EB2.
 However, NCSU maintains a bus service (see below) which makes things easier.
 
 ## Hotel Information
-Many hotels in downtown Raleigh and Cary that would be convenient.
+Many hotels in downtown Raleigh and Cary would be convenient.
 Just a few are listed below:
 - [The StateView Hotel](https://www.stateviewhotel.com/):
 This hotel is located on Centennial Campus with its own restaurant and bar.
@@ -62,6 +62,8 @@ Parking is a little more relaxed on weekends when visitors can park in any 'C' t
 There are many such spots on Centennial Campus including Partner's Way Deck, Oval West Deck, the Oval Drive and Entrepreneur Drive.
 However, please note that parking areas where student resident permits are required are still enforced on weekends.
 There are clear signs outside every parking lot about the permit needed to park there and what time of the week it is enforced.
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1MbyEvFplVpHf71ScnExDeqfoY-oAVTk&ehbc=2E312F" width="640" height="480"></iframe>
 
 <!-- ## Food and Drink
 

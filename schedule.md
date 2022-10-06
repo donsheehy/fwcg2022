@@ -15,7 +15,7 @@ layout: default
  *by Kien Huynh, Joseph Mitchell*
 - **The Persistent Homology of Lipschitz Extensions**  
  *by Kirk Gardner, Don Sheehy*
-- **An Improved $\varepsilon$-Approximation Algorithm for Geometric Bipartite Matching**  
+- **An Improved ε-Approximation Algorithm for Geometric Bipartite Matching**  
  *by Pankaj K. Agarwal, Sharath Raghvendra, <u>Pouyan Shirzadian</u>, Rachita Sowle*
 - **Space-Efficient Collinearity Testing**  
  *by Boris Aronov, Esther Ezra, Micha Sharir, <u>Guy Zigdon</u>*

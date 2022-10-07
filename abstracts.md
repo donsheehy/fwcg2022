@@ -1,8 +1,0 @@
----
-layout: default
-title: Accepted Abstracts
----
-
-# Abstracts
-
-Coming Soon.

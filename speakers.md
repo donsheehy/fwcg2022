@@ -2,6 +2,8 @@
 layout: default
 ---
 
-# Speakers
+# Invited Speakers
 
-Coming Soon.
+## Radmila Sazdanović
+
+## Maarten Löffler

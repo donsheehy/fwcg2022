@@ -71,7 +71,8 @@ There are clear signs outside every parking lot about the permit needed to park 
 
 
 ## Food and Drink
-- Hillsborough Street: Hillsborough Street passes along the north of NCSU and is lined with small restaurants serving a wide variety of quick meals. This is a recommendation for lunch on the 14th.
+- Talley Student Union is located a few minutes from Witherspoon Student Center along Cates Avenue. The food court there is a recommendation for lunch on the 14th.
+- Hillsborough Street passes along the north of NCSU and is lined with small restaurants serving a wide variety of quick meals.
 - [Cameron Village District]((https://shopvillagedistrict.com/directory/?search=Dining)): The Village district is a cluster of upscale eateries a stone's throw from NCSU.
 - [Glenwood South District](https://downtownraleigh.org/districts/glenwood-south): This street is paved with bars and restaurants open until the wee hours of the morning and is one of the most happening areas in the city. Raleigh Beer Garden offers one of the largest selections of draft beers in the world.
 - [Warehouse District](https://downtownraleigh.org/districts/warehouse-district): There is a fine collection of modern eateries and fancy bars in this former industrial center of downtown Raleigh. Morgan Street Food Hall boasts about 20 local vendors serving cooked-to-order meals and specialty foods.

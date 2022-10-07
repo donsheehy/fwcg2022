@@ -11,13 +11,13 @@ layout: default
 ### Session 1
 **Time: 9:10-10:30**
 **Chair: TBD**
-- **Sweeping Polygons with a Variable-Length Line Segment**  
- *by Kien Huynh, Joseph Mitchell*
-- **The Persistent Homology of Lipschitz Extensions**  
- *by Kirk Gardner, Don Sheehy*
-- **An Improved ε-Approximation Algorithm for Geometric Bipartite Matching**  
+- **<a href="abstracts/FWCG2022_paper_525.pdf">Sweeping Polygons with a Variable-Length Line Segment</a>**  
+ *by <u>Kien Huynh</u>, Joseph Mitchell*
+- **<a href="abstracts/FWCG2022_paper_1355.pdf">The Persistent Homology of Lipschitz Extensions</a>**  
+ *by <u>Kirk Gardner</u>, Don Sheehy*
+- **<a href="abstracts/FWCG2022_paper_2117.pdf">An Improved ε-Approximation Algorithm for Geometric Bipartite Matching</a>**  
  *by Pankaj K. Agarwal, Sharath Raghvendra, <u>Pouyan Shirzadian</u>, Rachita Sowle*
-- **Space-Efficient Collinearity Testing**  
+- **<a href="abstracts/FWCG2022_paper_3677.pdf">Space-Efficient Collinearity Testing</a>**  
  *by Boris Aronov, Esther Ezra, Micha Sharir, <u>Guy Zigdon</u>*
 
 
@@ -40,13 +40,13 @@ layout: default
 ### Session 3
 **Time: 2:00-3:20**
 **Chair: TBD**
-- **Linear-time Approximate Hausdorff Distance**  
- *by Siddharth Sheth, Oliver Chubet, Donald Sheehy, Parth Parikh*
-- **On Flipping the Frechet Distance**  
- *by Omrit Filtser, Mayank Goswami, Joseph Mitchell, Valentin Polishchuk*
-- **Characterizing graph-nonedge pairs with single-interval Cayley configuration spaces in 3-dimensions**  
+- **<a href="abstracts/FWCG2022_paper_4511.pdf">Linear-time Approximate Hausdorff Distance</a>**  
+ *by <u>Siddharth Sheth</u>, Oliver Chubet, Donald Sheehy, Parth Parikh*
+- **<a href="abstracts/FWCG2022_paper_3346.pdf">On Flipping the Frechet Distance</a>**  
+ *by Omrit Filtser, <u>Mayank Goswami</u>, Joseph Mitchell, Valentin Polishchuk*
+- **<a href="abstracts/FWCG2022_paper_3521.pdf">Characterizing graph-nonedge pairs with single-interval Cayley configuration spaces in 3-dimensions</a>**  
  *by William Sims, Meera Sitharam*
-- **Geometric Data Science challenges and solutions**  
+- **<a href="abstracts/FWCG2022_paper_6291.pdf">Geometric Data Science challenges and solutions</a>**  
  *by <u>Vitaliy Kurlin</u>*
 
 
@@ -66,13 +66,13 @@ layout: default
 ### Session 5
 **Time: 9:10-10:30**
 **Chair: TBD**
-- **All Politics is Local: Redistricting via Local Fairness**  
+- **<a href="abstracts/FWCG2022_paper_4925.pdf">All Politics is Local: Redistricting via Local Fairness</a>**  
  *by Shao-Heng Ko, <u>Erin Taylor</u>, Pankaj Agarwal, Kamesh Munagala*
-- **Distance Measures for Geometric Graphs**  
+- **<a href="abstracts/FWCG2022_paper_1305.pdf">Distance Measures for Geometric Graphs</a>**  
  *by Sushovan Majhi, Carola Wenk*
-- **The Complexity of Realizing Free Spaces**  
+- **<a href="abstracts/FWCG2022_paper_6032.pdf">The Complexity of Realizing Free Spaces</a>**  
  *by Hugo Akitaya, Maike Buchin, Majid Mirzanezhad, Leonie Ryvkin, Carola Wenk*
-- **Distance and Time Sensitive Filters for Similarity Search in Trajectory Datasets**  
+- **<a href="abstracts/FWCG2022_paper_6330.pdf">Distance and Time Sensitive Filters for Similarity Search in Trajectory Datasets</a>**  
  *by Madhav Narayn Bhat, Paul Cesaretti, Mayank Goswami, Prashant Pandey*
 
 
@@ -95,13 +95,13 @@ layout: default
 ### Session 7
 **Time: 2:00-3:20**
 **Chair: TBD**
-- **Selectivity Functions of Range Queries are Learnable**  
+- **<a href="abstracts/FWCG2022_paper_6384.pdf">Selectivity Functions of Range Queries are Learnable</a>**  
  *by Xiao Hu, Yuxi Liu, Haibo Xiu, Pankaj Agarwal, Debmalya Panigrahi, Sudeepa Roy, Jun Yang*
-- **For Kernel Range Spaces a Constant Number of Queries Are Sufficient**  
+- **<a href="abstracts/FWCG2022_paper_6654.pdf">For Kernel Range Spaces a Constant Number of Queries Are Sufficient</a>**  
  *by Jeff Phillips, <u>Hasan Pourmahmoodaghababa</u>*
-- **Conditional Lower Bounds for Dynamic Geometric Measure Problems**  
+- **<a href="abstracts/FWCG2022_paper_6835.pdf">Conditional Lower Bounds for Dynamic Geometric Measure Problems</a>**  
  *by <u>Justin Dallant</u>, John Iacono*
-- **Obtaining Approximately Optimal and Diverse Solutions via Dispersion**  
+- **<a href="abstracts/FWCG2022_paper_7008.pdf">Obtaining Approximately Optimal and Diverse Solutions via Dispersion</a>**  
  *by Jie Gao, Mayank Goswami, Karthik C.S., Meng-Tsung Tsai, Shih-Yu Tsai, Hao-Tsung Yang*
 
 
@@ -114,11 +114,11 @@ layout: default
 ### Session 8
 **Time: 4:00-5:20**
 **Chair: TBD**
-- **Best of two worlds: Cartesian sampling and volume computation for high dimensional configuration spaces using Cayley coordinates**  
- *by Yichi Zhang, Meera Sitharam*
-- **Computing geometric feature sizes for algebraic manifolds**  
+- **<a href="abstracts/FWCG2022_paper_8417.pdf">Best of two worlds: Cartesian sampling and volume computation for high dimensional configuration spaces using Cayley coordinates</a>**  
+ *by <u>Yichi Zhang</u>, Meera Sitharam*
+- **<a href="abstracts/FWCG2022_paper_8782.pdf">Computing geometric feature sizes for algebraic manifolds</a>**  
  *by Sandra Di Rocco, Parker Edwards, David Eklund, Oliver Gafvert, Jonathan Hauenstein*
-- **Merging Roadmaps Using Graph Distance Measures**  
+- **<a href="abstracts/FWCG2022_paper_9659.pdf">Merging Roadmaps Using Graph Distance Measures</a>**  
  *by Erfan Hosseini Sereshgi, Carola Wenk*
 
 

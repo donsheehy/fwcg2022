@@ -1,0 +1,83 @@
+friday:
+  -
+    name: "Session 1"
+    time: "9:10-10:30"
+    chair: TBD
+    talks:
+      - huynh22sweeping
+      - gardner22persistent
+      - agarwal22improved
+      - aronov22space
+  -
+    name: "Coffee Break and Discussion Time"
+    time: "10:30-11:00"
+
+  -
+    name: "Keynote: Radmila Sazdanovic"
+    time: "11:00-12:00"
+
+  -
+    name: Lunch
+    time: 12:00-2:00
+  -
+    name: "Session 3"
+    time: "2:00-3:20"
+    chair: TBD
+    talks:
+      - sheth22linear
+      - filtser22flipping
+      - sims22characterizing
+      - kurlin22geometric
+  -
+    name: "Coffee Break and Discussion Time"
+    time: "3:20-4:00"
+
+  -
+    name: Open Problems Session
+    chair: TBD
+    time: "4:00-5:30"
+
+saturday:
+  -
+    name: "Session 5"
+    time: "9:10-10:30"
+    chair: TBD
+    talks:
+      - ko22politics
+      - majhi22distance
+      - akitaya22complexity
+      - bhat22distance
+  -
+    name: "Coffee Break and Discussion Time"
+    time: "10:30-11:00"
+
+  -
+    name: "Keynote: Maarten Löffler"
+    time: "11:00-12:00"
+
+  -
+    name: Lunch
+    time: 12:00-2:00
+
+  -
+    name: "Session 7"
+    time: "2:00-3:20"
+    chair: TBD
+    talks:
+      - hu22selectivity
+      - phillips22kernel
+      - dallant22conditional
+      - gao22obtaining
+
+  -
+    name: "Coffee Break and Discussion Time"
+    time: "3:20-4:00"
+
+  -
+    name: "Session 8"
+    time: "4:00-5:20"
+    chair: TBD
+    talks:
+      - zhang22best
+      - rocco22computing
+      - sereshgi22merging

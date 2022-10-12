@@ -28,6 +28,10 @@ ${'###'} ${session['name']}
 % if 'chair' in session:
 **Chair: ${session['chair']}**
 % endif
+% if 'title' in session:
+${session['title']}${linebreak}
+${session['abstract']}
+% endif
 % if 'talks' in session:
 % for talk in session['talks']:
 - **<a href="abstracts/${papers[talk]['pdf']}">${papers[talk]['title']}</a>**${linebreak} *by ${", ".join(papers[talk]['authors'])}*

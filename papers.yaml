@@ -105,18 +105,19 @@ kurlin22geometric:
 bhat22distance:
     authors:
         - "Madhav Narayn Bhat"
-        - "Paul Cesaretti"
+        - "<u>Paul Cesaretti</u>"
         - "Mayank Goswami"
         - "Prashant Pandey"
     title: "Distance and Time Sensitive Filters for Similarity Search in Trajectory Datasets"
     submission: 6330
+    remote: No
     pdf: "FWCG2022_paper_6330.pdf"
 
 hu22selectivity:
     authors:
         - "Xiao Hu"
-        - "Yuxi Liu"
-        - "Haibo Xiu"
+        - "<u>Yuxi Liu</u>"
+        - "<u>Haibo Xiu</u>"
         - "Pankaj Agarwal"
         - "Debmalya Panigrahi"
         - "Sudeepa Roy"
@@ -162,23 +163,26 @@ zhang22best:
         - "Meera Sitharam"
     title: "Best of two worlds: Cartesian sampling and volume computation for high dimensional configuration spaces using Cayley coordinates"
     submission: 8417
+    remote: No
     pdf: "FWCG2022_paper_8417.pdf"
 
 rocco22computing:
     authors:
         - "Sandra Di Rocco"
-        - "Parker Edwards"
+        - "<u>Parker Edwards</u>"
         - "David Eklund"
         - "Oliver Gafvert"
         - "Jonathan Hauenstein"
     title: "Computing geometric feature sizes for algebraic manifolds"
     submission: 8782
+    remote: No
     pdf: "FWCG2022_paper_8782.pdf"
 
 sereshgi22merging:
     authors:
-        - "Erfan Hosseini Sereshgi"
+        - "<u>Erfan Hosseini Sereshgi</u>"
         - "Carola Wenk"
     title: "Merging Roadmaps Using Graph Distance Measures"
     submission: 9659
+    remote: No
     pdf: "FWCG2022_paper_9659.pdf"

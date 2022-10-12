@@ -29,6 +29,10 @@ layout: default
 ---
 ### Keynote: Radmila Sazdanovic
 **Time: 11:00-12:00**
+Data, Relations and Their Shape  
+
+Topological Data Analysis provides tools for discovering relevant features of data by analyzing the shape of the point cloud. In this context we develop tools for visualizing maps between high dimensional spaces with the goal of discovering relations between data sets with expected correlations. Examples include analyzing relations between numerical and polynomial invariants for knots and graphs, and applications to cancer genomics and materials science.
+
 
 
 ---
@@ -73,7 +77,7 @@ layout: default
 - **<a href="abstracts/FWCG2022_paper_6032.pdf">The Complexity of Realizing Free Spaces</a>**  
  *by Hugo Akitaya, Maike Buchin, Majid Mirzanezhad, Leonie Ryvkin, Carola Wenk*
 - **<a href="abstracts/FWCG2022_paper_6330.pdf">Distance and Time Sensitive Filters for Similarity Search in Trajectory Datasets</a>**  
- *by Madhav Narayn Bhat, Paul Cesaretti, Mayank Goswami, Prashant Pandey*
+ *by Madhav Narayn Bhat, <u>Paul Cesaretti</u>, Mayank Goswami, Prashant Pandey*
 
 
 ---
@@ -84,6 +88,10 @@ layout: default
 ---
 ### Keynote: Maarten Löffler
 **Time: 11:00-12:00**
+Labeled & Unlabeled Reconfiguration by Compaction  
+
+We consider configurations of (labeled or unlabeled) objects on an integer lattice, and their behaviour under *compaction* operations: we may think of these as globally pushing all objects with a horizontal or vertical half-plane by one unit, where objects will also push other objects which are in the way. Under this model, the central question is: given two configurations of the same set of objects, is there a sequence of compaction operations that will transform the first configuration into the second. In this talk, we will consider both the characterization of such configuration pairs where the answer is yes, and the computational complexity of answering this question in general as well as in some special cases.
+
 
 
 ---
@@ -96,7 +104,7 @@ layout: default
 **Time: 2:00-3:20**
 **Chair: TBD**
 - **<a href="abstracts/FWCG2022_paper_6384.pdf">Selectivity Functions of Range Queries are Learnable</a>**  
- *by Xiao Hu, Yuxi Liu, Haibo Xiu, Pankaj Agarwal, Debmalya Panigrahi, Sudeepa Roy, Jun Yang*
+ *by Xiao Hu, <u>Yuxi Liu</u>, <u>Haibo Xiu</u>, Pankaj Agarwal, Debmalya Panigrahi, Sudeepa Roy, Jun Yang*
 - **<a href="abstracts/FWCG2022_paper_6654.pdf">For Kernel Range Spaces a Constant Number of Queries Are Sufficient</a>**  
  *by Jeff Phillips, <u>Hasan Pourmahmoodaghababa</u>*
 - **<a href="abstracts/FWCG2022_paper_6835.pdf">Conditional Lower Bounds for Dynamic Geometric Measure Problems</a>**  
@@ -117,9 +125,9 @@ layout: default
 - **<a href="abstracts/FWCG2022_paper_8417.pdf">Best of two worlds: Cartesian sampling and volume computation for high dimensional configuration spaces using Cayley coordinates</a>**  
  *by <u>Yichi Zhang</u>, Meera Sitharam*
 - **<a href="abstracts/FWCG2022_paper_8782.pdf">Computing geometric feature sizes for algebraic manifolds</a>**  
- *by Sandra Di Rocco, Parker Edwards, David Eklund, Oliver Gafvert, Jonathan Hauenstein*
+ *by Sandra Di Rocco, <u>Parker Edwards</u>, David Eklund, Oliver Gafvert, Jonathan Hauenstein*
 - **<a href="abstracts/FWCG2022_paper_9659.pdf">Merging Roadmaps Using Graph Distance Measures</a>**  
- *by Erfan Hosseini Sereshgi, Carola Wenk*
+ *by <u>Erfan Hosseini Sereshgi</u>, Carola Wenk*
 
 
 ---

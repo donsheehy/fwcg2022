@@ -13,6 +13,7 @@ navigation:
   Travel Support: "/fwcg2022/travel_support"
   Travel Information: "/fwcg2022/localinfo"
   Zoom: "/fwcg2022/zoom"
+  Code of Conduct: "/fwcg2022/codeofconduct"
 
 markdown: kramdown
 

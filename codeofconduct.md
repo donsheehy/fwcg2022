@@ -1,0 +1,8 @@
+# Code of Conduct
+
+FWCG is dedicated to providing an environment that is free from harassment, bullying, discrimination, and retaliation for all participants, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. Bullying, intimidation, personal attacks, harassment, sustained disruption of talks or other events, and behavior that interferes with another's full participation will not be tolerated. Sexual language and imagery is not appropriate for any conference venue.
+
+
+Harassment includes offensive verbal comments related to gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion, technology choices, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention. Participants asked to stop any harassing behavior are expected to comply immediately.
+Bullying includes physical or intellectual aggression, use of inappropriate language, name calling, threats (explicit or implicit) of intent to harm or to coerce, especially in the context of an imbalance of power or authority.
+If a participant engages in harassing or bullying behavior, the conference organisers may take any action they deem appropriate, including warning the offender or expulsion from the conference with no refund. Note that a response of "just joking" will not be accepted; behavior can be harassing without an intent to offend.

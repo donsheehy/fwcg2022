@@ -7,10 +7,12 @@ layout: default
 
 
 
-## Friday, October 14, 2022
+## Friday, October 14, 2022: Witherspoon Student Center 201
 ### Session 1
-**Time: 9:10-10:30**
-**Chair: TBD**
+**Time: 9:10-10:30**  
+
+**Chair: TBD**  
+
 - **<a href="abstracts/FWCG2022_paper_525.pdf">Sweeping Polygons with a Variable-Length Line Segment</a>**  
  *by <u>Kien Huynh</u>, Joseph Mitchell*
 - **<a href="abstracts/FWCG2022_paper_1355.pdf">The Persistent Homology of Lipschitz Extensions</a>**  
@@ -23,13 +25,15 @@ layout: default
 
 ---
 ### Coffee Break and Discussion Time
-**Time: 10:30-11:00**
+**Time: 10:30-11:00**  
+
 
 
 ---
 ### Keynote: Radmila Sazdanovic
-**Time: 11:00-12:00**
-Data, Relations and Their Shape  
+**Time: 11:00-12:00**  
+
+**Data, Relations and Their Shape**  
 
 Topological Data Analysis provides tools for discovering relevant features of data by analyzing the shape of the point cloud. In this context we develop tools for visualizing maps between high dimensional spaces with the goal of discovering relations between data sets with expected correlations. Examples include analyzing relations between numerical and polynomial invariants for knots and graphs, and applications to cancer genomics and materials science.
 
@@ -37,13 +41,16 @@ Topological Data Analysis provides tools for discovering relevant features of da
 
 ---
 ### Lunch
-**Time: 12:00-2:00**
+**Time: 12:00-2:00**  
+
 
 
 ---
 ### Session 3
-**Time: 2:00-3:20**
-**Chair: TBD**
+**Time: 2:00-3:20**  
+
+**Chair: TBD**  
+
 - **<a href="abstracts/FWCG2022_paper_4511.pdf">Linear-time Approximate Hausdorff Distance</a>**  
  *by <u>Siddharth Sheth</u>, Oliver Chubet, Donald Sheehy, Parth Parikh*
 - **<a href="abstracts/FWCG2022_paper_3346.pdf">On Flipping the Frechet Distance</a>**  
@@ -56,20 +63,25 @@ Topological Data Analysis provides tools for discovering relevant features of da
 
 ---
 ### Coffee Break and Discussion Time
-**Time: 3:20-4:00**
+**Time: 3:20-4:00**  
+
 
 
 ---
 ### Open Problems Session
-**Time: 4:00-5:30**
-**Chair: TBD**
+**Time: 4:00-5:30**  
+
+**Chair: TBD**  
+
 
 
 ---
-## Saturday, October 15, 2022
+## Saturday, October 15, 2022: Engineering Building 2, 1025
 ### Session 5
-**Time: 9:10-10:30**
-**Chair: TBD**
+**Time: 9:10-10:30**  
+
+**Chair: TBD**  
+
 - **<a href="abstracts/FWCG2022_paper_4925.pdf">All Politics is Local: Redistricting via Local Fairness</a>**  
  *by Shao-Heng Ko, <u>Erin Taylor</u>, Pankaj Agarwal, Kamesh Munagala*
 - **<a href="abstracts/FWCG2022_paper_1305.pdf">Distance Measures for Geometric Graphs</a>**  
@@ -82,13 +94,15 @@ Topological Data Analysis provides tools for discovering relevant features of da
 
 ---
 ### Coffee Break and Discussion Time
-**Time: 10:30-11:00**
+**Time: 10:30-11:00**  
+
 
 
 ---
 ### Keynote: Maarten Löffler
-**Time: 11:00-12:00**
-Labeled & Unlabeled Reconfiguration by Compaction  
+**Time: 11:00-12:00**  
+
+**Labeled & Unlabeled Reconfiguration by Compaction**  
 
 We consider configurations of (labeled or unlabeled) objects on an integer lattice, and their behaviour under *compaction* operations: we may think of these as globally pushing all objects with a horizontal or vertical half-plane by one unit, where objects will also push other objects which are in the way. Under this model, the central question is: given two configurations of the same set of objects, is there a sequence of compaction operations that will transform the first configuration into the second. In this talk, we will consider both the characterization of such configuration pairs where the answer is yes, and the computational complexity of answering this question in general as well as in some special cases.
 
@@ -96,13 +110,16 @@ We consider configurations of (labeled or unlabeled) objects on an integer latti
 
 ---
 ### Lunch
-**Time: 12:00-2:00**
+**Time: 12:00-2:00**  
+
 
 
 ---
 ### Session 7
-**Time: 2:00-3:20**
-**Chair: TBD**
+**Time: 2:00-3:20**  
+
+**Chair: TBD**  
+
 - **<a href="abstracts/FWCG2022_paper_6384.pdf">Selectivity Functions of Range Queries are Learnable</a>**  
  *by Xiao Hu, <u>Yuxi Liu</u>, <u>Haibo Xiu</u>, Pankaj Agarwal, Debmalya Panigrahi, Sudeepa Roy, Jun Yang*
 - **<a href="abstracts/FWCG2022_paper_6654.pdf">For Kernel Range Spaces a Constant Number of Queries Are Sufficient</a>**  
@@ -115,13 +132,16 @@ We consider configurations of (labeled or unlabeled) objects on an integer latti
 
 ---
 ### Coffee Break and Discussion Time
-**Time: 3:20-4:00**
+**Time: 3:20-4:00**  
+
 
 
 ---
 ### Session 8
-**Time: 4:00-5:20**
-**Chair: TBD**
+**Time: 4:00-5:20**  
+
+**Chair: TBD**  
+
 - **<a href="abstracts/FWCG2022_paper_8417.pdf">Best of two worlds: Cartesian sampling and volume computation for high dimensional configuration spaces using Cayley coordinates</a>**  
  *by <u>Yichi Zhang</u>, Meera Sitharam*
 - **<a href="abstracts/FWCG2022_paper_8782.pdf">Computing geometric feature sizes for algebraic manifolds</a>**  

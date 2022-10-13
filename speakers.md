@@ -5,7 +5,8 @@ layout: default
 # Invited Speakers
 
 ## Radmila Sazdanović
-**North Carolina State University**
+**North Carolina State University**  
+WSC 201, Witherspoon Student Center, 2810 Cates Ave, Raleigh, NC 27606, Main Campus
 
 ### Data, Relations and Their Shape
 
@@ -14,7 +15,8 @@ Topological Data Analysis provides tools for discovering relevant features of da
 ---
 
 ## Maarten Löffler
-**Utrecht University**
+**Utrecht University**  
+EB2 1025, Engineering Building 2, 890 Oval Dr, Raleigh, NC 27606, Centennial Campus
 
 ### Labeled & Unlabeled Reconfiguration by Compaction
 

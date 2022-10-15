@@ -10,10 +10,11 @@ huynh22sweeping:
 
 majhi22distance:
     authors:
-        - "Sushovan Majhi"
+        - "<u>Sushovan Majhi</u>"
         - "Carola Wenk"
     title: "Distance Measures for Geometric Graphs"
     submission: 1305
+    remote: No
     pdf: "FWCG2022_paper_1305.pdf"
 
 gardner22persistent:
@@ -22,6 +23,7 @@ gardner22persistent:
         - "Don Sheehy"
     title: "The Persistent Homology of Lipschitz Extensions"
     submission: 1355
+    remote: No
     pdf: "FWCG2022_paper_1355.pdf"
 
 agarwal22improved:
@@ -32,6 +34,7 @@ agarwal22improved:
         - "Rachita Sowle"
     title: "An Improved ε-Approximation Algorithm for Geometric Bipartite Matching"
     submission: 2117
+    remote: No
     pdf: "FWCG2022_paper_2117.pdf"
 
 filtser22flipping:
@@ -47,10 +50,11 @@ filtser22flipping:
 
 sims22characterizing:
     authors:
-        - "William Sims"
+        - "<u>William Sims</u>"
         - "Meera Sitharam"
     title: "Characterizing graph-nonedge pairs with single-interval Cayley configuration spaces in 3-dimensions"
     submission: 3521
+    remote: No
     pdf: "FWCG2022_paper_3521.pdf"
 
 aronov22space:
@@ -72,6 +76,7 @@ sheth22linear:
         - "Parth Parikh"
     title: "Linear-time Approximate Hausdorff Distance"
     submission: 4511
+    remote: No
     pdf: "FWCG2022_paper_4511.pdf"
 
 ko22politics:
@@ -82,17 +87,19 @@ ko22politics:
         - "Kamesh Munagala"
     title: "All Politics is Local: Redistricting via Local Fairness"
     submission: 4925
+    remote: No
     pdf: "FWCG2022_paper_4925.pdf"
 
 akitaya22complexity:
     authors:
         - "Hugo Akitaya"
         - "Maike Buchin"
-        - "Majid Mirzanezhad"
+        - "<u>Majid Mirzanezhad</u>"
         - "Leonie Ryvkin"
         - "Carola Wenk"
     title: "The Complexity of Realizing Free Spaces"
     submission: 6032
+    remote: No
     pdf: "FWCG2022_paper_6032.pdf"
 
 kurlin22geometric:

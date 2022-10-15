@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Schedule
+# FWCG 2022 Schedule
 
 <%
 import yaml
@@ -25,7 +25,7 @@ ${'##'} ${f"{date}: {location}"}
 % for session in schedule[day]:
 ${'###'} ${session['name']}
 **Time: ${session['time']}**${linebreak}
-% if 'chair' in session:
+% if 'chair' in session and False:
 **Chair: ${session['chair']}**${linebreak}
 % endif
 % if 'title' in session:

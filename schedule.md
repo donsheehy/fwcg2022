@@ -2,16 +2,12 @@
 layout: default
 ---
 
-# Schedule
-
-
+# FWCG 2022 Schedule
 
 
 ## Friday, October 14, 2022: Witherspoon Student Center 201
 ### Session 1
 **Time: 9:10-10:30**  
-
-**Chair: TBD**  
 
 - **<a href="abstracts/FWCG2022_paper_525.pdf">Sweeping Polygons with a Variable-Length Line Segment</a>**  
  *by <u>Kien Huynh</u>, Joseph Mitchell*
@@ -40,7 +36,7 @@ Topological Data Analysis provides tools for discovering relevant features of da
 
 
 ---
-### Lunch
+### Lunch (on your own)
 **Time: 12:00-2:00**  
 
 
@@ -48,8 +44,6 @@ Topological Data Analysis provides tools for discovering relevant features of da
 ---
 ### Session 3
 **Time: 2:00-3:20**  
-
-**Chair: TBD**  
 
 - **<a href="abstracts/FWCG2022_paper_4511.pdf">Linear-time Approximate Hausdorff Distance</a>**  
  *by <u>Siddharth Sheth</u>, Oliver Chubet, Donald Sheehy, Parth Parikh*
@@ -71,16 +65,17 @@ Topological Data Analysis provides tools for discovering relevant features of da
 ### Open Problems Session
 **Time: 4:00-5:30**  
 
-**Chair: TBD**  
 
 
 
+<div style = "display:block; clear:both; page-break-after:always;">
 ---
-## Saturday, October 15, 2022: Engineering Building 2, 1025
+</div>
+
+## Saturday, October 15, 2022: Engineering Building 2, room 1025
+
 ### Session 5
 **Time: 9:10-10:30**  
-
-**Chair: TBD**  
 
 - **<a href="abstracts/FWCG2022_paper_4925.pdf">All Politics is Local: Redistricting via Local Fairness</a>**  
  *by Shao-Heng Ko, <u>Erin Taylor</u>, Pankaj Agarwal, Kamesh Munagala*
@@ -109,7 +104,7 @@ We consider configurations of (labeled or unlabeled) objects on an integer latti
 
 
 ---
-### Lunch
+### Lunch (boxed lunches provided)
 **Time: 12:00-2:00**  
 
 
@@ -117,8 +112,6 @@ We consider configurations of (labeled or unlabeled) objects on an integer latti
 ---
 ### Session 7
 **Time: 2:00-3:20**  
-
-**Chair: TBD**  
 
 - **<a href="abstracts/FWCG2022_paper_6384.pdf">Selectivity Functions of Range Queries are Learnable</a>**  
  *by Xiao Hu, <u>Yuxi Liu</u>, <u>Haibo Xiu</u>, Pankaj Agarwal, Debmalya Panigrahi, Sudeepa Roy, Jun Yang*
@@ -138,9 +131,7 @@ We consider configurations of (labeled or unlabeled) objects on an integer latti
 
 ---
 ### Session 8
-**Time: 4:00-5:20**  
-
-**Chair: TBD**  
+**Time: 4:00-5:00**  
 
 - **<a href="abstracts/FWCG2022_paper_8417.pdf">Best of two worlds: Cartesian sampling and volume computation for high dimensional configuration spaces using Cayley coordinates</a>**  
  *by <u>Yichi Zhang</u>, Meera Sitharam*

@@ -2,7 +2,6 @@ friday:
   -
     name: "Session 1"
     time: "9:10-10:30"
-    chair: TBD
     talks:
       - huynh22sweeping
       - gardner22persistent
@@ -25,7 +24,6 @@ friday:
   -
     name: "Session 3"
     time: "2:00-3:20"
-    chair: TBD
     talks:
       - sheth22linear
       - filtser22flipping
@@ -37,14 +35,14 @@ friday:
 
   -
     name: Open Problems Session
-    chair: TBD
+    chair: Don Sheehy
     time: "4:00-5:30"
 
 saturday:
   -
     name: "Session 5"
     time: "9:10-10:30"
-    chair: TBD
+    chair: Brittany Fasy
     talks:
       - ko22politics
       - majhi22distance
@@ -67,7 +65,7 @@ saturday:
   -
     name: "Session 7"
     time: "2:00-3:20"
-    chair: TBD
+    chair: Hugo Akitaya
     talks:
       - hu22selectivity
       - phillips22kernel
@@ -81,7 +79,7 @@ saturday:
   -
     name: "Session 8"
     time: "4:00-5:00"
-    chair: TBD
+    chair: Carola Wenk
     talks:
       - zhang22best
       - rocco22computing

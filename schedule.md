@@ -5,6 +5,8 @@ layout: default
 # FWCG 2022 Schedule
 
 
+
+
 ## Friday, October 14, 2022: Witherspoon Student Center 201
 ### Session 1
 **Time: 9:10-10:30**  
@@ -50,7 +52,7 @@ Topological Data Analysis provides tools for discovering relevant features of da
 - **<a href="abstracts/FWCG2022_paper_3346.pdf">On Flipping the Frechet Distance</a>**  
  *by Omrit Filtser, <u>Mayank Goswami</u>, Joseph Mitchell, Valentin Polishchuk*
 - **<a href="abstracts/FWCG2022_paper_3521.pdf">Characterizing graph-nonedge pairs with single-interval Cayley configuration spaces in 3-dimensions</a>**  
- *by William Sims, Meera Sitharam*
+ *by <u>William Sims</u>, Meera Sitharam*
 - **<a href="abstracts/FWCG2022_paper_6291.pdf">Geometric Data Science challenges and solutions</a>**  
  *by <u>Vitaliy Kurlin</u>*
 
@@ -67,22 +69,17 @@ Topological Data Analysis provides tools for discovering relevant features of da
 
 
 
-
-<div style = "display:block; clear:both; page-break-after:always;">
 ---
-</div>
-
-## Saturday, October 15, 2022: Engineering Building 2, room 1025
-
+## Saturday, October 15, 2022: Engineering Building 2, 1025
 ### Session 5
 **Time: 9:10-10:30**  
 
 - **<a href="abstracts/FWCG2022_paper_4925.pdf">All Politics is Local: Redistricting via Local Fairness</a>**  
  *by Shao-Heng Ko, <u>Erin Taylor</u>, Pankaj Agarwal, Kamesh Munagala*
 - **<a href="abstracts/FWCG2022_paper_1305.pdf">Distance Measures for Geometric Graphs</a>**  
- *by Sushovan Majhi, Carola Wenk*
+ *by <u>Sushovan Majhi</u>, Carola Wenk*
 - **<a href="abstracts/FWCG2022_paper_6032.pdf">The Complexity of Realizing Free Spaces</a>**  
- *by Hugo Akitaya, Maike Buchin, Majid Mirzanezhad, Leonie Ryvkin, Carola Wenk*
+ *by Hugo Akitaya, Maike Buchin, <u>Majid Mirzanezhad</u>, Leonie Ryvkin, Carola Wenk*
 - **<a href="abstracts/FWCG2022_paper_6330.pdf">Distance and Time Sensitive Filters for Similarity Search in Trajectory Datasets</a>**  
  *by Madhav Narayn Bhat, <u>Paul Cesaretti</u>, Mayank Goswami, Prashant Pandey*
 
@@ -116,11 +113,11 @@ We consider configurations of (labeled or unlabeled) objects on an integer latti
 - **<a href="abstracts/FWCG2022_paper_6384.pdf">Selectivity Functions of Range Queries are Learnable</a>**  
  *by Xiao Hu, <u>Yuxi Liu</u>, <u>Haibo Xiu</u>, Pankaj Agarwal, Debmalya Panigrahi, Sudeepa Roy, Jun Yang*
 - **<a href="abstracts/FWCG2022_paper_6654.pdf">For Kernel Range Spaces a Constant Number of Queries Are Sufficient</a>**  
- *by Jeff Phillips, <u>Hasan Pourmahmoodaghababa</u>*
+ *by Jeff Phillips, <u>Hasan Pourmahmood-Aghababa</u>*
 - **<a href="abstracts/FWCG2022_paper_6835.pdf">Conditional Lower Bounds for Dynamic Geometric Measure Problems</a>**  
  *by <u>Justin Dallant</u>, John Iacono*
 - **<a href="abstracts/FWCG2022_paper_7008.pdf">Obtaining Approximately Optimal and Diverse Solutions via Dispersion</a>**  
- *by Jie Gao, Mayank Goswami, Karthik C.S., Meng-Tsung Tsai, Shih-Yu Tsai, Hao-Tsung Yang*
+ *by Jie Gao, <u>Mayank Goswami</u>, Karthik C.S., Meng-Tsung Tsai, Shih-Yu Tsai, Hao-Tsung Yang*
 
 
 ---

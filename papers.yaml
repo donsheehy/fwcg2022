@@ -137,7 +137,7 @@ hu22selectivity:
 phillips22kernel:
     authors:
         - "Jeff Phillips"
-        - "<u>Hasan Pourmahmoodaghababa</u>"
+        - "<u>Hasan Pourmahmood-Aghababa</u>"
     title: "For Kernel Range Spaces a Constant Number of Queries Are Sufficient"
     submission: 6654
     remote: No
@@ -155,7 +155,7 @@ dallant22conditional:
 gao22obtaining:
     authors:
         - "Jie Gao"
-        - "Mayank Goswami"
+        - "<u>Mayank Goswami</u>"
         - "Karthik C.S."
         - "Meng-Tsung Tsai"
         - "Shih-Yu Tsai"
